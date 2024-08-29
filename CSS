@@ -1,0 +1,32 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas {
+  display: block;
+}
+
+h1 {
+  color: blue;
+  font-size: 30px;
+  font-family: arial;
+
+
+}
+h2 {
+  color: red;
+  font-size: 20px;
+  font-family: arial;
+}
+
+p1{
+  color:black;
+  font-size: 15px;
+  font-family: Times;
+}
+
+p2 {
+    color:black;
+  font-size: 15px;
+  font-family: Times;
+}
